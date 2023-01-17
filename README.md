@@ -1,16 +1,27 @@
-### Hi there 👋
+### Junsang Yoo :point_down:
 
-<!--
-**junsangyooo/junsangyooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Quick Learner (Develper/Data Analyzer/Student)`**
 
-Here are some ideas to get you started:
+I'm Junsang, a second-year Mathematics student at University of Waterloo. I am obsessed with learning new technologies and honing my existing abilities. All coding projects are built from the ground up, from planning and designing all the way to solving problems with code.<br />
+You can check out my profile at "[LinkedIn](https://www.linkedin.com/in/junsang-yoo-305288227/?locale=en_US)" and reach out to me at :email:[Junsang Yoo](mailto:jun.yoo@uwaterloo.ca).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :white_check_mark:Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.r-project.org/logo/Rlogo.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+<br />
+
+#
+
+### :chart_with_downwards_trend:Stats
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junsangyooo&theme=gruvbox)
+![junsangyooo's Github stats](github-readme-streak-stats.vercel.app/api?username=junsangyooo&show_icons=true&theme=gruvbox)
