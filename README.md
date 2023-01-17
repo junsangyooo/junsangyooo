@@ -24,4 +24,3 @@ You can check out my profile at "[LinkedIn](https://www.linkedin.com/in/junsang-
 
 ### :chart_with_downwards_trend:Stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junsangyooo&theme=gruvbox)
-![junsangyooo's Github stats](github-readme-streak-stats.vercel.app/api?username=junsangyooo&show_icons=true&theme=gruvbox)
