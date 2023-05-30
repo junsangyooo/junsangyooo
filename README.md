@@ -2,7 +2,7 @@
 
 **`Quick Learner (Develper/Data Analyzer/Student)`**
 
-I'm Junsang, a second-year Mathematics student at University of Waterloo. I am obsessed with learning new technologies and honing my existing abilities. All coding projects are built from the ground up, from planning and designing all the way to solving problems with code.<br />
+I'm Junsang, a third-year Mathematics student at University of Waterloo. I am obsessed with learning new technologies and honing my existing abilities. All coding projects are built from the ground up, from planning and designing all the way to solving problems with code.<br />
 You can check out my profile at "[LinkedIn](https://www.linkedin.com/in/junsang-yoo-305288227/?locale=en_US)" and reach out to me at :email:[Junsang Yoo](mailto:jun.yoo@uwaterloo.ca).
 
 ### :white_check_mark:Languages and Tools
