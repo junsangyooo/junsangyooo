@@ -1,7 +1,7 @@
 ### Junsang Yoo :point_down:
 
-**`Quick Learner (Developer/Data Scientist/Product Manager/Student)`**
-I'm Junsang, a third-year student at the University of Waterloo enrolled to major in Statistics and minor in Computing. I am obsessed with learning new technologies and honing my existing abilities. All coding projects are built from the ground up, from planning and designing all the way to solving problems with code.<br />
+**`Vibecoder (AI-Native Product Builder/Operator/Student)`**
+I'm Junsang, a third-year student at the University of Waterloo enrolled to major in Statistics and minor in Computing. I work with AI to take products from idea to ship, end to end. I can write code myself, but I've deliberately set that down for leverage — I direct AI tools like Claude Code to do the building while I own the spec, structure, and product decisions. What I care about most is how work itself is being rewired around AI: pulling spec, code, infra, and ops into a single context, automating the repetitive parts, and shrinking the gap between idea and outcome.<br />
 You can check out my profile at "[LinkedIn](https://www.linkedin.com/in/junsang-yoo-305288227/?locale=en_US)" and reach out to me at :email:[Junsang Yoo](mailto:jun.yoo@uwaterloo.ca).
 
 ### :white_check_mark:Languages and Tools
