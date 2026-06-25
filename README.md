@@ -37,6 +37,6 @@ idea and outcome.
 ### :chart_with_downwards_trend: Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsangyooo&layout=compact&theme=gruvbox&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=junsangyooo&theme=gruvbox&hide_border=true&card_height=170" />
+  <img src="https://streak-stats.demolab.com?user=junsangyooo&theme=gruvbox&hide_border=true&card_height=190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junsangyooo&layout=compact&theme=gruvbox&hide_border=true&langs_count=7" />
 </p>
